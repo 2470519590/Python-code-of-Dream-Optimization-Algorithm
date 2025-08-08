@@ -30,7 +30,7 @@ The original text states that after a large number of numerical experiments,
 considering the practicality and stability of the algorithm, u is set to 0.9
 
 
-
+    
 About the details, please refer to the following paper:
 
 Lang Y, Gao Y. Dream Optimization Algorithm (DOA): A novel metaheuristic optimization algorithm inspired by human dreams and its applications to real-world engineering problems[J]. Computer Methods in Applied Mechanics and Engineering, 2025, 436: 117718.
